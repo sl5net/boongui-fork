@@ -3,7 +3,7 @@ boonGUI Snapshot of the very recomandet 0ad mod called boonGUI created by Langba
 
 # Description for boonGUI
 
-This mod is basically a derivative of @ffm2's mod 'ffm_visibility' but with additional changes that I thought would be fitting. 
+This mod is basically a derivative of @ffm2's mod 'ffm_visibility' but with additional changes. 
 
 read full Description here: 
 
