@@ -1,0 +1,1 @@
+~/0ad/binaries/system/pyrogenesis -mod=mod -archivebuild=Library/'Application Support'/0ad/mods/boongui  -archivebuild-output=Library/'Application Support'/0ad/mods/boongui.pyromod -archivebuild-compress
